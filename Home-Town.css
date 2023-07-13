@@ -44,6 +44,33 @@ body {
     text-align: center;
     color: #1D3557;
 }
+#activity-section-img {
+    display: flex;
+    justify-content: space-around;
+}
+#activity-section-img1 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+#activity-section-img2 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+#activity-section-img3 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+#activity-section-word {
+    display: flex;
+    justify-content: space-around;
+}
+#activity-section-word2 {
+    display: flex;
+    justify-content: space-around;
+}
 .guide-section {
     width: 720px;
     height: 394px;
